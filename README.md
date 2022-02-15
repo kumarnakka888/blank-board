@@ -1,2 +1,2 @@
 # blank-board
-Hiiii this is a merge conflicts from deve to maatser
+Hi.. this is a testing for merge conflicts
